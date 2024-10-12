@@ -1,5 +1,4 @@
-Hello, contact me: kirillinskiwork@gmail.com
-<!---
-DukeOfKeys/DukeOfKeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋 I'm Kiryl
+If you have interesting ideas or project proposals, feel free to reach out! I'm always open to discussing new projects and collaboration.
+
+[LinkedIn](https://www.linkedin.com/in/kirillinski/) | kirillinskiwork (at) gmail (dot) com
